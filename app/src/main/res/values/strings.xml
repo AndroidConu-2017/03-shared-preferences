@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SharedPreferences</string>
+    <string name="action_settings">Settings</string>
+    <string name="uidpass">Enter Userid and Password</string>
+    <string name="uid">Userid</string>
+    <string name="pass">Password</string>
+    <string name="setpassbutton">Save User ID</string>
+    <string name="saved">Saved Data</string>
+    
+</resources>
